@@ -1,0 +1,9 @@
+kind: Backend
+apiVersion: capabilities.3scale.net/v1beta1
+metadata:
+  name: ptl-lm
+  namespace: 3scale
+spec:
+  name: ptl-lm
+  privateBaseURL: 'https://ptl-lm-llm-hosting.apps.cluster-w8hbw.w8hbw.sandbox5395.opentlc.com'
+  systemName: ptl-lm

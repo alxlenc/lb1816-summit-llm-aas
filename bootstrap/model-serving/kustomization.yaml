@@ -21,3 +21,5 @@ resources:
 - anythingllm-connection-type-configmap.yaml
 - images-puller.yaml
 - 3scale-network-policy.yaml
+- custom-vllm-template-runtime.yaml
+- autocomplete/
