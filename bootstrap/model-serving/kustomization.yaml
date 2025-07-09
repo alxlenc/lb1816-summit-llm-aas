@@ -22,4 +22,6 @@ resources:
 - images-puller.yaml
 - 3scale-network-policy.yaml
 - custom-vllm-template-runtime.yaml
-- autocomplete/
+- autocomplete/backend.yaml
+- autocomplete/product.yaml
+- autocomplete/promote.yaml
