@@ -1,0 +1,11 @@
+kind: ProxyConfigPromote
+apiVersion: capabilities.3scale.net/v1beta1
+metadata:
+  name: ptl-lm
+  namespace: 3scale
+  annotations:
+    argocd.argoproj.io/managed-by: openshift-gitops
+    argocd.argoproj.io/sync-wave: "2"
+spec:
+  productCRName: ptl-lm
+  production: true
