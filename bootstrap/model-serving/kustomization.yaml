@@ -17,7 +17,6 @@ resources:
 - project-manager.yaml
 - secret-aws-connection-llm-hosting.yaml
 - create-odh-tec-workbench.yaml
-- granite-inference-raw.yaml
 - nvidia-gpu-monitoring-dashboard-job.yaml
 - anythingllm-connection-type-configmap.yaml
 - images-puller.yaml
