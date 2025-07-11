@@ -5,5 +5,5 @@ metadata:
   namespace: 3scale
 spec:
   name: ptl-lm
-  privateBaseURL: 'https://ptl-lm-llm-hosting.apps.cluster-w8hbw.w8hbw.sandbox5395.opentlc.com'
+  privateBaseURL: 'https://ptl-lm.llm-hosting.svc.cluster.local'
   systemName: ptl-lm
