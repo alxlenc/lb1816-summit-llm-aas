@@ -25,4 +25,5 @@ resources:
 - autocomplete/backend.yaml
 - autocomplete/product.yaml
 - autocomplete/promote.yaml
+- autocomplete/inferenceservice.yaml
 
